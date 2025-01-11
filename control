@@ -1,0 +1,9 @@
+Package: jp.uzra.squarepip
+Name: SquarePiP
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make pip view square 
+Maintainer: uz.ra
+Author: uz.ra
+Section: Tweaks
